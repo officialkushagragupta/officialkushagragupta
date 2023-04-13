@@ -7,7 +7,7 @@
 📄 Know about my experiences/Resume: https://drive.google.com/file/d/10pddWyMawOY6pChYNL6Bbj9GqtmTBVzc/view?usp=share_link
 👨‍💻 My Leetcode profile : https://leetcode.com/officialkushagragupta/
 
-🔭 I’m currently working on Machine Learning Projects.
+🔭 I’m currently working on Machine Learning Projects. <br>
 👯 I’m looking to collaborate on any project that excites me.
 🌱 I’m currently learning Machine Learning Algorithms.
 📫 How to reach me officialkushagragupta@gmail.com
