@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on Machine Learning Projects. \n
+🔭 I’m currently working on Machine Learning Projects.\n
 👯 I’m looking to collaborate on any project that excites me. \n
 🌱 I’m currently learning Machine Learning Algorithms. \n
 📫 How to reach me officialkushagragupta@gmail.com  \n
