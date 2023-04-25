@@ -5,7 +5,7 @@
 📫 How to reach me officialkushagragupta@gmail.com <br>
 📝 I regularly write articles on https://twitter.com/effervescent_kg <br>
 📄 Know about my experiences/Resume: https://drive.google.com/file/d/1tX5k-7CvDpMVsjO-NDMWUOIlPYR5KUKe/view?usp=sharing <br>
-<!-- 👨‍💻 My Leetcode profile : https://leetcode.com/officialkushagragupta/ <br> -->
+👨‍💻 My Leetcode profile : https://leetcode.com/officialkushagragupta/ <br>
 
 
 
