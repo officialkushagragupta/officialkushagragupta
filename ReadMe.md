@@ -1,7 +1,7 @@
 # 💫About Me : <br>
 🔭 I’m currently working on Machine Learning Projects. <br>
 👯 I’m looking to collaborate on any project that excites me. <br>
-🌱 I’m currently learning Machine Learning Algorithms. <br>
+🌱 I’m currently learning JAVA. <br>
 📫 How to reach me officialkushagragupta@gmail.com <br>
 📝 I regularly write articles on https://twitter.com/effervescent_kg <br>
 📄 Know about my experiences/Resume: https://drive.google.com/file/d/1tX5k-7CvDpMVsjO-NDMWUOIlPYR5KUKe/view?usp=sharing <br>
