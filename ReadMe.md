@@ -2,9 +2,9 @@
 🔭 I’m currently working on Machine Learning Projects. <br>
 👯 I’m looking to collaborate on any project that excites me. <br>
 🌱 I’m currently learning JAVA. <br>
-📫 How to reach me officialkushagragupta@gmail.com <br>
+📫 How to reach me kguptaml@gmail.com <br>
 📝 I regularly write articles on https://twitter.com/effervescent_kg <br>
-📄 Know about my experiences/Resume: https://drive.google.com/file/d/1xzQZkhqi7-BvdOZ54B6DFZaWn2XqXzUQ/view?usp=sharing <br>
+📄 Know about my experiences/Resume: https://drive.google.com/file/d/1MSTgTpo3fj-TzlxfNnfr1jhYTeeoduGt/view?usp=sharing <br>
 <!-- 👨‍💻 My Leetcode profile : https://leetcode.com/officialkushagragupta/  <br> -->
 
 
