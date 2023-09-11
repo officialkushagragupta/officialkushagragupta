@@ -1,6 +1,6 @@
 # 💫About Me : <br>
 🔭 I’m currently working on Machine Learning Projects. <br>
-👯 I’m looking to collaborate on any project that excites me. <br>
+👯 I’m looking to collaborate on any ML project that excites me. <br>
 🌱 I’m currently learning JAVA. <br>
 📫 How to reach me kguptaml@gmail.com <br>
 📝 I regularly write articles on https://twitter.com/effervescent_kg <br>
