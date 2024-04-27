@@ -4,7 +4,7 @@
 🌱 I’m currently learning JAVA. <br>
 📫 How to reach me kguptaml@gmail.com <br>
 📝 I regularly write articles on https://twitter.com/effervescent_kg <br>
-📄 Know about my experiences/Resume: https://drive.google.com/file/d/1MSTgTpo3fj-TzlxfNnfr1jhYTeeoduGt/view?usp=sharing <br>
+📄 Know about my experiences/Resume: https://drive.google.com/file/d/1otbH1IUZ_D21dVtsSnT1Gv7-tk1O_ZKJ/view?usp=sharing<br>
 <!-- 👨‍💻 My Leetcode profile : https://leetcode.com/officialkushagragupta/  <br> -->
 
 
